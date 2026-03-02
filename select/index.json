@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "君を守って 君を愛して",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-03-02T14:58:07.133631Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君を守って 君を愛して - Kimi No Tameni Tsuyokunaritai Version",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_君を守って_君を愛して_-_Kimi_No_Tameni_Tsuyokunaritai_Version_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君を守って 君を愛して",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/02_君を守って_君を愛して_サンボマスター.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君を守って 君を愛して",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_君を守って_君を愛して_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君を守って 君を愛して",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_君を守って_君を愛して_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "君を守って 君を愛して",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_君を守って_君を愛して_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "君を守って君を愛して",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_君を守って君を愛して_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "君を守って 君を愛して (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_君を守って_君を愛して_(きみのためにつよくなりたいバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "君を守って 君を愛して (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_君を守って_君を愛して_(きみのためにつよくなりたいバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "君を守って 君を愛して (きみのためにつよくなりたいバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_07_君を守って_君を愛して_(きみのためにつよくなりたいバージョン)_サンボマスター.txt"
+    }
+  ]
+}
